@@ -1,3 +1,6 @@
+#Leer desde el teclado un valor que corresponda a la distancia entre dos puntos expresada en
+#Dmts. y transformarla en Cms., Imprimirla.
+
 precioArt1 = int(input("Ingresa el precio del articulo 1: "))
 cantArt1 = int(input("Ingresa la cantidad vendida del articulo 1: "))
 

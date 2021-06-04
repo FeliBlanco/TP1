@@ -1,3 +1,6 @@
+#Leer un número e imprimirlo junto con sus primeros múltiplos, ejemplifique para los primeros
+#4 múltiplos del número ingresado
+
 numero = int(input("Ingresa un numero: "))
 
 multiplo1 = numero * 1

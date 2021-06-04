@@ -1,3 +1,5 @@
+#Leer dos números reales, calcular e imprimir los dos posibles cocientes entre ellos
+
 numero = int(input("Ingresa un numero: "))
 numero2 = int(input("Ingresa otro numero: "))
 

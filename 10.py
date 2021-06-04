@@ -1,3 +1,5 @@
+#Leer un número positivo, calcular su cuadrado y su cubo. Imprimir los resultados
+
 numero = int(input("Ingrese un numero: "))
 
 cuadrado = numero * numero

@@ -1,3 +1,5 @@
+#Leer tres números, calcular e imprimir los seis posibles cocientes
+
 numero = int(input("Ingresa un numero: "))
 numero2 = int(input("Ingresa otro numero: "))
 numero3 = int(input("Ingrese otro numero: "))
